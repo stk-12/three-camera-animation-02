@@ -2,7 +2,7 @@ import { defineConfig } from 'vite';
 import autoprefixer from "autoprefixer";
 
 export default defineConfig({
-  base: "/base_url/",
+  base: "/",
   root: "./src",
   build: {
 		outDir: "../dist",
