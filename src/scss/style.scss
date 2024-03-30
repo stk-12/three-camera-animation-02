@@ -1,0 +1,23 @@
+:root {
+}
+
+body {
+  overflow: hidden;
+  background: #f44336;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+small {
+  color: #fff;
+  font-size: 10px;
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  a {
+    color: #fff;
+  }
+}
